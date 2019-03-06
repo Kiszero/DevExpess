@@ -15,5 +15,9 @@ namespace DexExpress
         {
             InitializeComponent();
         }
+        public static void test()
+        {
+
+        }
     }
 }
